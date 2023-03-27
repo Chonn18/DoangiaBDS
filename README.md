@@ -5,3 +5,6 @@ hom nay hoc vui qua len ngoi khong het gio
 
 
 day la thay doi tu duoi may tinh quay manh len oke 
+dau co loi gi daau oke ma
+okeeee
+
