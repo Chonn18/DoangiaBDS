@@ -1,4 +1,6 @@
 import math
+
+
 class S:
     def __init__(self, x):
         self.x = x
@@ -14,4 +16,4 @@ n = int(input())
 s = S(3)  # khởi tạo đối tượng S với x = 3
 for i in range(1, n):
     print(s.calculate(i))
-#day chi la test chuc nang 
+# day chi la test chuc nang
